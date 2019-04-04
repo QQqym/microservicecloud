@@ -1,0 +1,15 @@
+server:
+  port: 8054
+spring:
+   application:
+    name: microservicecloud-feign80
+
+feign:
+  hystrix:
+    enabled: true
+
+eureka:
+  client:
+    register-with-eureka: false
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/

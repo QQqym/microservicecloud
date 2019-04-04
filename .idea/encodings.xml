@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfig3344" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigclient3355" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigeurekaclient7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdept80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdeptfeign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerhystrixdashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudocnfigdeptclient8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdepthystrix8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudzuulgateway9527" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+com\qym\service\DeptClientService.class
+com\qym\service\DeptClientServiceFallbackFactory$1.class
+com\qym\service\DeptClientServiceFallbackFactory.class
+com\qym\entites\Dept.class

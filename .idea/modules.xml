@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloud/microservicecloud.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloud/microservicecloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudapi/microservicecloudapi.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudapi/microservicecloudapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfig3344/microservicecloudconfig3344.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfig3344/microservicecloudconfig3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigclient3355/microservicecloudconfigclient3355.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudocnfigdeptclient8001/microservicecloudconfigdeptclient8001.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudocnfigdeptclient8001/microservicecloudconfigdeptclient8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconfigeurekaclient7001/microservicecloudconfigeurekaclient7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdept80/microservicecloudconsumerdept80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerdeptfeign/microservicecloudconsumerdeptfeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudconsumerhystrixdashboard/microservicecloudconsumerhystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7001/microservicecloudeureka7001.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7001/microservicecloudeureka7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7002/microservicecloudeureka7002.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7002/microservicecloudeureka7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7003/microservicecloudeureka7003.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudeureka7003/microservicecloudeureka7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8001/microservicecloudproviderdept8001.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8001/microservicecloudproviderdept8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8002/microservicecloudproviderdept8002.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdept8002/microservicecloudproviderdept8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdepthystrix8001/microservicecloudproviderdepthystrix8001.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudproviderdepthystrix8001/microservicecloudproviderdepthystrix8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudzuulgateway9527/microservicecloudzuulgateway9527.iml" filepath="$PROJECT_DIR$/../springboot_cloud_qym/microservicecloudzuulgateway9527/microservicecloudzuulgateway9527.iml" />
+    </modules>
+  </component>
+</project>
